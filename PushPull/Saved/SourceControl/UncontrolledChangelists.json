@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/t_meyer4/Documents/Unreal Projects/PushPull/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/t_meyer4/Documents/Unreal Projects/PushPull/Content/Blueprint/BP_PullPush.uasset",
+				"C:/Users/t_meyer4/Documents/Unreal Projects/PushPull/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/t_meyer4/Documents/Unreal Projects/PushPull/Content/Blueprint/BP_Cube.uasset",
+				"C:/Users/t_meyer4/Documents/Unreal Projects/PushPull/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/TH/TUFGBANVRZYUMGSRI3EODC.uasset"
+			]
+		}
+	]
+}
